@@ -7,6 +7,8 @@
 
 Curiosidade🤔🤔
 
-I. ** O nome "Java" foi inspirado no café consumido pelos criadores da linguagem durante o desenvolvimento, o que também justifica o ícone de xícara de café.**
+I. O nome "Java" foi inspirado no café consumido pelos criadores da linguagem durante o desenvolvimento, o que também justifica o ícone de xícara de café.
+
 II. A tecnologia Java é tão robusta que foi usada pela NASA no Mars Rover, o veículo que explorou Marte
+
 III.  É uma das linguagens mais utilizadas no mundo, com destaque para sua liderança na Coreia do Sul, China e Alemanha
