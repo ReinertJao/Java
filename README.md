@@ -5,7 +5,9 @@
 <img width="225" height="225" alt="Java" src="https://github.com/user-attachments/assets/82cb4273-aa88-40cb-95d2-876a3454d651" />
 
 
-Curiosidade🤔🤔
+
+
+-Curiosidade🤔
 
 I. O nome "Java" foi inspirado no café consumido pelos criadores da linguagem durante o desenvolvimento, o que também justifica o ícone de xícara de café.
 
